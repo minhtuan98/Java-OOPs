@@ -1,0 +1,9 @@
+7
+101	TranMinhTuan	15-07-1998	5.0	70
+102	TranMinhMinh	17-05-1998	5.0	70
+103	TranMinhTu	10-10-1998	7.0	100
+96	TranMinhA	11-06-2000	3.0	40
+97	TranMinhB	12-06-2000	3.5	50
+98	TranMinhC	13-06-2000	4.0	45
+99	TranMinhD	14-06-2000	4.5	60
+
